@@ -1,0 +1,14 @@
+.container {
+  background: bisque;
+  display: flex;
+  column-gap: 5px;
+  flex-direction: column;
+  row-gap: 5px;
+  justify-content: space-around;
+  align-items: center;
+  height: 80vh;
+}
+
+.header {
+  width: 100%;
+}
